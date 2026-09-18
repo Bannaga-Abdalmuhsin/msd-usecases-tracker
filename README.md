@@ -1,13 +1,26 @@
 # STC COW use case implementation tracker
 
-Open [index.html](./index.html) to review the 22 requirements supplied for seven use cases and the digital roadmap governance item.
+Open [index.html](./index.html) to review the 22 supplied requirements for seven use cases and digital roadmap governance.
+
+## Implementation repositories
+
+| Use case | Repository | Next verification |
+| --- | --- | --- |
+| 3.1 Energy and fuel | [Energy-Dashboard](https://github.com/Bannaga-Abdalmuhsin/Energy-Dashboard) | Live data refresh and four-region adoption |
+| 3.2 Energy and environmental digital twin | [Cow-Risk-Dashboard_new](https://github.com/Bannaga-Abdalmuhsin/Cow-Risk-Dashboard_new) | Predictive model and measured forecast accuracy beyond S1–S4 risk scenarios |
+| 3.3 Passive infrastructure assets | [asset-managment](https://github.com/Bannaga-Abdalmuhsin/asset-managment) | CMDB coverage, field validation and adoption |
+| 3.4 QR complaints | Repository link needed | Submission, routing and closure evidence |
+| 3.5 Fault workforce | [fault-managment](https://github.com/Bannaga-Abdalmuhsin/fault-managment) | RTTS integration, assignments, restoration evidence and access controls |
+| 3.6 AI Ops | [AI-Ops](https://github.com/Bannaga-Abdalmuhsin/AI-Ops) | Response quality, escalation, WhatsApp and production access |
+| 3.7 Movement | [cow-ai-delopyment](https://github.com/Bannaga-Abdalmuhsin/cow-ai-delopyment), [AI-COW-Deployment](https://github.com/Bannaga-Abdalmuhsin/AI-COW-Deployment) | Map each KPI to a project and validate historical forecasts |
+
+These are repository links and inspection notes, not proof that a stage gate has been accepted or rolled out. The original stage percentages and statuses remain unchanged. The tracker flags conflicting percentage/status pairs for review.
 
 ## Use
 
 - Search or filter stages by status.
 - Edit a stage's percentage or status. Changes are saved in that browser's local storage only.
 - Export JSON to share or back up updates; import that JSON on another browser.
-- The amber badge flags a mismatch between a supplied percentage and status. Source values are preserved until reviewed.
-- The stage average shown for a use case is the arithmetic average of its supplied stage percentages, not a weighted project completion measure.
+- The stage average is an arithmetic average of its stage percentages, not a weighted project completion measure.
 
-The page has no backend, authentication, or shared write access. Publishing this repository does not make browser edits visible to other users. Team fields in the public page are generalized to **ACES** and **stc**.
+The page has no backend, authentication, or shared write access. Browser edits do not automatically become visible to other users. Personal team fields in the public page are generalized to **ACES** and **stc**.

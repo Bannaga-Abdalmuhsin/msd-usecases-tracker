@@ -4,7 +4,7 @@
 
 ## Implementation repositories
 
-| Use case | Repository | Next verification |
+| Use case | Repository | Current Status |
 | --- | --- | --- |
 | 3.1 Energy and fuel | [Energy-Dashboard](https://github.com/Bannaga-Abdalmuhsin/Energy-Dashboard) | Data refresh and all-region scales |
 | 3.2 Energy and environmental digital twin | [Cow-Risk-Dashboard_new](https://github.com/Bannaga-Abdalmuhsin/Cow-Risk-Dashboard_new) | Predictive model and measured forecast accuracy beyond S1–S4 risk scenarios |

@@ -6,7 +6,7 @@
 
 | Use case | Repository | Current Status |
 | --- | --- | --- |
-| 3.1 Energy and fuel | [Energy-Dashboard](https://github.com/Bannaga-Abdalmuhsin/Energy-Dashboard) | Data refresh and all-region scales |
+| 3.1 Energy and fuel | [Energy-Dashboard](https://github.com/Bannaga-Abdalmuhsin/Energy-Dashboard) | Data Collections  and all-region Rollout |
 | 3.2 Energy and environmental digital twin | [Cow-Risk-Dashboard_new](https://github.com/Bannaga-Abdalmuhsin/Cow-Risk-Dashboard_new) | Predictive model and measured forecast accuracy beyond S1–S4 risk scenarios |
 | 3.3 Passive infrastructure assets | [asset-managment](https://github.com/Bannaga-Abdalmuhsin/asset-managment) | CMDB coverage, field validation and adoption |
 | 3.4 QR complaints | Repository link needed | Submission, routing and closure evidence |

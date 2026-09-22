@@ -18,9 +18,9 @@
 
 ## Use
 
-- Search or filter stages by status.
-- Edit a stage's percentage or status. Changes are saved in that browser's local storage only.
-- Export JSON to share or back up updates; import that JSON on another browser.
-- The stage average is an arithmetic average of its stage percentages, not a weighted project completion measure.
+- Frontend & Backend inhouse Databases including cloud and local
+- Integration Roadmap
+- Framework Complianaces
+- stc Cypersecurity Complianaces 
 
 The page has no backend, authentication, or shared write access. Browser edits do not automatically become visible to other users. Personal team fields in the public page are generalized to **ACES** and **stc**.

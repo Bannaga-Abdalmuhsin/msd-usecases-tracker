@@ -1,6 +1,6 @@
 # stc COW Project use case implementation tracker
 
-Open [index.html](./index.html) to review the 22 supplied requirements for seven use cases and digital roadmap governance.
+
 
 ## Implementation repositories
 
